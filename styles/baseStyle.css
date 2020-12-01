@@ -14,7 +14,7 @@ main{
 }
 
 #left-section{
-    width:25%;
+    min-width: 380px;
     padding: 60px 0px 0px 60px;
 }
 
@@ -66,4 +66,30 @@ nav ul li:not(:first-child) a:hover{
 #name{
     font-size: 1.5em;
     font-weight: 400;
+}
+
+
+
+@media (max-width: 320px) {
+    #left-section{
+        margin-right: 50px;
+    }
+}
+
+@media (max-width: 480px) {
+    #left-section{
+        margin-right: 50px;
+    }
+}
+
+@media (max-width: 768px) {
+    #left-section{ 
+        margin-right: 50px;
+    }
+}
+
+@media (max-width: 1024px) {
+    #left-section{
+        margin-right: 50px;
+    }
 }

@@ -37,3 +37,48 @@
 #list-right{
     width: 30%;
 }
+
+@media (max-width: 320px) {
+
+    #about-text{
+        min-width: 600px;
+    }
+}
+
+
+@media (max-width: 480px) {
+    #about-text{
+        min-width: 600px;
+    }
+}
+
+@media (max-width: 768px) {
+    #about-text{
+        min-width: 600px;
+    }
+
+}
+
+@media (max-width: 1024px) {
+    #about-text{
+        min-width: 600px;
+    }
+}
+
+@media (max-width: 1450px) {
+    
+    #about-text{
+        min-width: 600px;
+        order: 2;
+    }
+    #about-midText{
+        min-width: 600px;
+        order: 3;
+    }
+    #about-image{
+        min-width: 400px;
+    }
+    #list{
+        min-width: 800px;
+    }
+}
