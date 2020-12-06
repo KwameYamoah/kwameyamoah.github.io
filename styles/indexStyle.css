@@ -5,6 +5,8 @@
 }
 
 #contact{
+    font-weight: 300;
+    font-size: 0.9em;
 }
 
 @media (max-width: 768px) {
