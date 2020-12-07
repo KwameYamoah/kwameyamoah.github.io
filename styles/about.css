@@ -17,8 +17,13 @@
     padding-right: 100px;
 }
 
+
 #about-image{
     width: 30%; 
+}
+
+#about-text p, #about-text li, #about-midText li{
+    font-size: 0.9rem;
 }
 
 #image{
