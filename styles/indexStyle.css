@@ -4,8 +4,6 @@
     max-height: 88%;
 }
 
-
-
 @media (max-width: 768px) {
     #home-image{
        display: none;
