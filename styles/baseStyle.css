@@ -93,26 +93,3 @@ nav ul li:not(:first-child) a:hover{
 }
 
 
-@media (max-width: 550px) {
-    nav{
-        height: 40%;
-    }
-    #favourite-quotes{
-        height: 50%;
-    }
-
-    #favourite-quotes p{
-        font-size: 0.9em;
-    }
-
-    #favourite-quotes li{
-        font-size: 0.7em;
-    }
-
-    #contact{
-        font-size: 0.7em;
-    }
-    main{
-        display: none;
-    }
-}
