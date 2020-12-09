@@ -4,7 +4,7 @@
     max-height: 88%;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 767px) {
     #home-image{
        display: none;
     }
