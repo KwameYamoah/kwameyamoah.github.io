@@ -90,13 +90,11 @@ nav ul li:not(:first-child) a:hover{
     font-style: italic;
 }
 
-
 #contact{
     height: 10%;
     font-weight: 300;
     font-size: 0.9em;
 }
-
 
 #contact a{
    display: block;
