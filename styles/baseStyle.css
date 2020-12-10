@@ -101,6 +101,7 @@ nav ul li:not(:first-child) a:hover{
 #contact a{
    display: block;
    color: black;
+   font-weight: 700 ;
    text-decoration: none;
 }
 
