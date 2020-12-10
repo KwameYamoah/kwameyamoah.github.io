@@ -20,7 +20,7 @@
 
 .project{
     min-width: 580px;
-    width: 580px    ;
+    width: 590px    ;
  
     min-height: 48%;
     max-height: 48%;
@@ -35,6 +35,7 @@
 }
 
 .project-image img{
+    padding-right: 10px;
     min-width: 280px;
     min-height: 280px;
     max-width: 280px;
